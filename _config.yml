@@ -12,7 +12,7 @@ title                    : "Quan Manh Phung / "
 title_separator          : "-"
 name                     : &name "Quan Manh Phung"
 description              : &description "personal description"
-url                      : https://compchem.io.vn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://quanp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "quanp/quanp.github.io"
 
